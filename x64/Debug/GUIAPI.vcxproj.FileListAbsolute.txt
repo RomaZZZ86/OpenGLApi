@@ -1,0 +1,2 @@
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\x64\Debug\GUIAPI.exe
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\x64\Debug\GUIAPI.pdb

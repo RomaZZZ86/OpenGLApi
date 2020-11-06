@@ -1,0 +1,25 @@
+﻿  Using triplet "x64-windows" from "C:\Users\Roman\source\repos\vcpkg-master\installed\x64-windows\"
+  butRect.cpp
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\shader_s.h(44,40): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\butRect.cpp(62,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\butRect.cpp(65,25): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\butRect.cpp(177,39): warning C4244: аргумент: преобразование "float" в "const unsigned __int64", возможна потеря данных
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\butRect.cpp(177,53): warning C4244: аргумент: преобразование "float" в "const unsigned __int64", возможна потеря данных
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\butRect.cpp(184,39): warning C4244: аргумент: преобразование "float" в "const unsigned __int64", возможна потеря данных
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\butRect.cpp(184,53): warning C4244: аргумент: преобразование "float" в "const unsigned __int64", возможна потеря данных
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\butRect.cpp(189,39): warning C4244: аргумент: преобразование "float" в "const unsigned __int64", возможна потеря данных
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\butRect.cpp(189,59): warning C4244: аргумент: преобразование "float" в "const unsigned __int64", возможна потеря данных
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\butRect.cpp(189,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\butRect.cpp(191,55): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\butRect.cpp(205,59): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\butRect.cpp(205,48): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\butRect.cpp(205,37): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\butRect.cpp(205,27): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\butRect.cpp(210,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\butRect.cpp(210,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\OpenGL\include\nanogui\serializer\core.h(306,27): warning C4244: инициализация: преобразование "Eigen::Index" в "uint32_t", возможна потеря данных
+C:\OpenGL\include\nanogui\serializer\core.h(304): message : во время компиляции функции-члена класс шаблон "void nanogui::detail::serialization_helper<Eigen::Matrix<float,4,1,0,4,1>>::write(nanogui::Serializer &,const Eigen::Matrix<float,4,1,0,4,1> *,size_t)"
+C:\OpenGL\include\nanogui\serializer\core.h(105): message : выполняется компиляция ссылки на экземпляр шаблон функции "void nanogui::detail::serialization_helper<Eigen::Matrix<float,4,1,0,4,1>>::write(nanogui::Serializer &,const Eigen::Matrix<float,4,1,0,4,1> *,size_t)"
+C:\OpenGL\include\nanogui\serializer\core.h(327): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "nanogui::detail::serialization_helper<Eigen::Matrix<float,4,1,0,4,1>>"
+C:\OpenGL\include\nanogui\serializer\core.h(306,2): warning C4244: инициализация: преобразование "Eigen::Index" в "uint32_t", возможна потеря данных
+  GUIAPI.vcxproj -> C:\Users\Roman\Documents\Godot\OpenGL-master\GUIAPI\x64\Debug\GUIAPI.exe
